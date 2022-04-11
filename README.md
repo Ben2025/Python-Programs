@@ -15,54 +15,53 @@ I have done my undergrad in Electronics and communication stream
 
 Skills 
 
-Python (Programming Language)Python (Programming Language)
+- Python (Programming Language)Python (Programming Language)                       
+- Microsoft ExcelMicrosoft Excel           
 
 
-Microsoft ExcelMicrosoft Excel
+-Data Science
+
+-Machine Learning
 
 
-Data ScienceData Science
+-Artificial Intelligence (AI)
 
 
-Machine LearningMachine Learning
+-SQL
 
 
-Artificial Intelligence (AI)Artificial Intelligence (AI)
+-C++
 
 
-SQLSQL
+-Pandas (Software)
 
 
-C++C++
+-NumPy
 
 
-Pandas (Software)Pandas (Software)
+-Matplotlib
 
 
-NumPyNumPy
+-Scikit-Learn
 
 
-MatplotlibMatplotlib
+-TensorFlow
 
 
-Scikit-LearnScikit-Learn
+-Amazon Web Services (AWS)
 
 
-TensorFlowTensorFlow
+-Presentations
+
+-Project Management
 
 
-Amazon Web Services (AWS)Amazon Web Services (AWS)
+### Links 
 
-
-PresentationsPresentations
-
-
-Project Management
-
-
-Links
+Linkedin Link :
 https://www.linkedin.com/in/benny-ms-640830234/
 
+Hackerrank Link :
 https://www.hackerrank.com/domains/python
 
 
