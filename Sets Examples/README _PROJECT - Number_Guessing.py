@@ -29,45 +29,4 @@ By using print give the statement " you got the number" , guesses , "gusses"
 
 
 
-import random
-   top_of_range = ("Type a number:")
 
-if top_of_range.isdigit
-    top_of_range = int(top_of_range)
-
-if top_of_range <= 0:
-    print("please type a number more than  0 next time:")
-else:
-    print("please type a number next time ")
-    quit()
-
-random = random.randit("0 , top_of_range")
-guesses = 0
-while True:
-guess+= 1
-user_guess = ("make a guess")
-
-if user_guess.isdigit
-    user_guess = int(user_guess)
-else:
-    print("please type a number ")
-    quit()
-    continue
-
-if user_guess = random number
-    print ("you got the number right!")
-   break
- else:
-     if user_guess > random_number
-        print("you were above the number!")
-else:
-    if user_guess < random_number
-        print("you were below the number!")
-,,,
-elif user_guess > random_number
-    print("you were above the number!")
-else user_guess < random_number
-    print("you were below the number!")
-,,,
-
-print("you got it in", guesses , "gusses")
