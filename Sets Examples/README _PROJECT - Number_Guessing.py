@@ -1,4 +1,4 @@
-###PROJECT TITLE - Number_Guessing.py
+# PROJECT TITLE - Number_Guessing.py
 
 In this project we will know about the programming involed in guessing the numbers .
 
