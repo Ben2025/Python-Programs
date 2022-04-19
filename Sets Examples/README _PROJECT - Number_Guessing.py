@@ -1,4 +1,8 @@
+###PROJECT TITLE - Number_Guessing.py
+
 In this project we will know about the programming involed in guessing the numbers .
+
+
 
 First we need to consider the range and then include a number .
 
