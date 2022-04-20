@@ -1,5 +1,4 @@
 
-# Project Title
 
 # PROJECT TITLE - Number_Guessing.py
 
